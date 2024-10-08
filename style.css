@@ -1,4 +1,7 @@
 
+/*Colour choice: Use colour blindness friendly colours*/
+/*Font choice: Use dyslexia friendly fonts*/ 
+
 .title {
     font-size: 72px;
     font-family: 'Courier New', Courier, monospace;
@@ -9,4 +12,14 @@ a:link {
     text-decoration: none;
     font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
+}
+
+a:visited{
+    /*This is for visited links*/
+    color: #0C7BDC; 
+}
+
+a:hover{
+    /*When the user hovers over the link*/ 
+    color: #FFC20A; 
 }
