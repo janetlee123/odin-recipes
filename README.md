@@ -1,6 +1,6 @@
 # odin-recipes
 
-First website that includes links, images, headers,and lists
+First website that includes links, images, headers,and lists made following The Odin Project 
 
 Index File
 - relative link to all other recipe pages 
